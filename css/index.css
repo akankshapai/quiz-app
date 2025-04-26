@@ -1,4 +1,3 @@
-
 * {
   margin: 0;
   padding: 0;
@@ -8,7 +7,7 @@
 
 
 body {
-  background:url('Phonetic.png');
+  background:url('/Phonetic.png');
   background-size: cover; 
     background-position: center;
     background-attachment: fixed; 
